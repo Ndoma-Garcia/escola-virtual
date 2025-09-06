@@ -1,0 +1,41 @@
+@charset "UTF-8";
+Body {
+  Font-family: Arial, sans-serif;
+  Margin: 0;
+  Padding: 0;
+}
+
+Header {
+  Background-color: #004080;
+  Color: white;
+  Padding: 20px;
+  Text-align: center;
+}
+
+Nav ul {
+  List-style: none;
+  Padding: 0;
+  Display: flex;
+  Justify-content: center;
+  Gap: 30px;
+}
+
+Nav a {
+  Color: white;
+  Text-decoration: none;
+}
+
+Section {
+  Padding: 20px;
+  text-align: justify;
+     text-indent: 30px;
+    font-size: 1em;
+    line-height: 2em;
+}
+
+Footer {
+  Background-color: #004080;
+  Color: white;
+  Text-align: center;
+  Padding: 10px;
+}
